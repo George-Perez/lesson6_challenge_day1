@@ -1,0 +1,66 @@
+a:link {
+    text-decoration: none;
+}
+
+.button_box2 {
+    display: flex;
+    align-items: center;
+}
+
+.submit_2 {
+    border: 0;
+    height: 40px;
+    width: auto;
+    color: white;
+    background: #eb5a00;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.input2 {
+    padding-left: 10px;
+    border: 0;
+    height: 40px;
+    width: 200px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 4px 0px 0px 4px;
+}
+
+.social-container {
+    list-style: none;
+    height: 50px;
+    width: 400px;
+}
+
+.social-container img {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.donate-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: auto;
+}
+
+.heart {
+    background-color: #2ea233;
+    height: 45px;
+    width: 60px;
+    padding-top: 8px;
+    padding-left: 15px;
+    border-radius: 3px 0px 0px 3px;
+}
+
+.submit_3 {
+    border: 0;
+    height: 38px;
+    width: auto;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #2ea233;
+    background: #ffffff;
+    border-radius: 0px 3px 3px 0px;
+}
