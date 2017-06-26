@@ -23,7 +23,7 @@
     height: 40px;
     width: 60px;
     color: white;
-    background: rgba(0, 0, 0, 0.8) url(/images/Search-Icon.png) no-repeat center;
+    background: rgba(0, 0, 0, 0.8) url({{ site.github.url }}/images/Search-Icon.png) no-repeat center;
     border-radius: 0px 4px 4px 0px;
 }
 
